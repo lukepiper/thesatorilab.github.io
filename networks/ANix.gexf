@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-04-04">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="name" title="name" type="string"></attribute>
+      <attribute id="type" title="type" type="string"></attribute>
+      <attribute id="country" title="country" type="string"></attribute>
+      <attribute id="status" title="status" type="string"></attribute>
+      <attribute id="companies house / open corporates link" title="companies house / open corporates link" type="string"></attribute>
+      <attribute id="notes" title="notes" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="10911848" label="Emerdata Limited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Active"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/10911848"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="329.00214" y="-392.8731"></viz:position>
+      </node>
+      <node id="p1" label="Alexander James Ashburner Nix">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Mapped"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/YEplkqBMfc6Rp3dbPs57pN3aqO4/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="461.07678" y="164.37381"></viz:position>
+      </node>
+      <node id="p2" label="Ahmad Ashraf Hosny Al Khatib">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/MVXMVXIlHAjSuuhqCXQ9bZCcDrk/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-64.64061" y="-312.4823"></viz:position>
+      </node>
+      <node id="p3" label="Johnson Chun Shun Ko">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="status" value="Mapped"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/IDL2_DU4_J4DTmAy4ouJkA2WLEE/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="33.986164" y="-276.80228"></viz:position>
+      </node>
+      <node id="p4" label="Jennifer Mercer">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="USA"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/OWBlHDzf3sKzyqHVcpYSeZHvm_U/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="360.18692" y="247.97261"></viz:position>
+      </node>
+      <node id="p5" label="Rebekah Anne Mercer">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="USA"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/3EZ_w3CXSjTvnzZPQ_opr3Vatlg/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-76.29226" y="445.16196"></viz:position>
+      </node>
+      <node id="p6" label="Cheng Peng">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/CuhHD8BJsNPTxpnOshqdXdVv1S8/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-241.19319" y="124.56193"></viz:position>
+      </node>
+      <node id="p7" label="Julian David Wheatland">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Partial"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/hvyCzVBNN2CA8PSiOQFLbwm8BGo/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1.434517" y="-424.56097"></viz:position>
+      </node>
+      <node id="11238956" label="Firecrest Technologies Limited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Active"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/11238956"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-243.85103" y="-460.49496"></viz:position>
+      </node>
+      <node id="5514098" label="SCL Group Limited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Active"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/05514098"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-549.42395" y="-403.6624"></viz:position>
+      </node>
+      <node id="p8" label="Roger Michael Gabb">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/gkxdw89p0mL2kXSsdPgVi_MmEak/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="218.85803" y="478.55118"></viz:position>
+      </node>
+      <node id="p9" label="Nigel John Oakes">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/mrwiNFdKsooGz_8JW2M22xzXyHY/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="109.89436" y="2.0382302"></viz:position>
+      </node>
+      <node id="p10" label="John Michael Bottomley">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/_jEDYwaT6JuGo-crc0_MicvZfws/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="193.26968" y="-80.15867"></viz:position>
+      </node>
+      <node id="p11" label="Alexander Waddington Oakes">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/Pm5VUNghomm3HpJLwQrB0umIXr8/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-418.65717" y="-14.33392"></viz:position>
+      </node>
+      <node id="9838667" label="SCL Analytics Limited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Active"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/09838667"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-222.2245" y="-224.9916"></viz:position>
+      </node>
+      <node id="9375920" label="Cambridge Analytica (UK) Limited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Dormant"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/09375920"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3.5987685" y="85.5537"></viz:position>
+      </node>
+      <node id="9375055" label="SCL Digital LImited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Dissolved"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/09375055"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-326.83655" y="-348.66214"></viz:position>
+      </node>
+      <node id="9375809" label="SCL Sovereign Limited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Dissolved"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/09375809"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="152.63002" y="44.940514"></viz:position>
+      </node>
+      <node id="8840965" label="SCL Commercial Limited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Active"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/08840965"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="313.44498" y="382.8663"></viz:position>
+      </node>
+      <node id="8410560" label="SCL Social Limited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Active"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/08410560"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="195.49257" y="-169.56972"></viz:position>
+      </node>
+      <node id="p12" label="Christian Patrick Teroerde">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/B1dc9TnomOGEpWVyIUH4BOqjoxw/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-498.19055" y="53.100395"></viz:position>
+      </node>
+      <node id="8256225" label="SCL Elections Limited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Active"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/08256225"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-175.87897" y="232.38527"></viz:position>
+      </node>
+      <node id="10952414" label="Fanalytica Limited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Active"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/10952414"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="508.41144" y="111.73866"></viz:position>
+      </node>
+      <node id="p13" label="Philip Tudor Nash">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/3R4DdWh4YUmeAh_me-Eu6XmATpQ/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="352.67227" y="-115.534485"></viz:position>
+      </node>
+      <node id="p14" label="Damian Michael McShane">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/mvaEUIs5xRHyNOAw94Qh2GTkK_8/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-127.310646" y="-46.90201"></viz:position>
+      </node>
+      <node id="p15" label="Harold Gittelmon">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/3PbHF27X64EIqCiHX0syaOVg3ss/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="172.19522" y="131.65376"></viz:position>
+      </node>
+      <node id="p16" label="Andrew Patrick Agar">
+        <attvalues>
+          <attvalue for="type" value="Person"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/officers/d3UoDcqUnJoHjJXISyr3gXHnBcE/appointments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-185.98442" y="163.17426"></viz:position>
+      </node>
+      <node id="10373330" label="SCL Insight Limited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Active"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/10373330"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="173.3512" y="200.12215"></viz:position>
+      </node>
+      <node id="9838690" label="SCL Strategic Limited">
+        <attvalues>
+          <attvalue for="type" value="Company"></attvalue>
+          <attvalue for="country" value="UK"></attvalue>
+          <attvalue for="status" value="Dissolved"></attvalue>
+          <attvalue for="companies house / open corporates link" value="https://beta.companieshouse.gov.uk/company/09838690"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-482.84216" y="413.0264"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="46" source="p1" target="10911848"></edge>
+      <edge id="47" source="p2" target="10911848"></edge>
+      <edge id="48" source="p3" target="10911848"></edge>
+      <edge id="49" source="p4" target="10911848"></edge>
+      <edge id="50" source="p5" target="10911848"></edge>
+      <edge id="51" source="p6" target="10911848"></edge>
+      <edge id="52" source="p7" target="10911848"></edge>
+      <edge id="53" source="p1" target="11238956"></edge>
+      <edge id="54" source="10911848" target="11238956"></edge>
+      <edge id="55" source="p1" target="5514098"></edge>
+      <edge id="56" source="p8" target="5514098"></edge>
+      <edge id="57" source="p9" target="5514098"></edge>
+      <edge id="58" source="p7" target="5514098"></edge>
+      <edge id="59" source="p10" target="5514098"></edge>
+      <edge id="60" source="p11" target="5514098"></edge>
+      <edge id="61" source="p8" target="9838667"></edge>
+      <edge id="62" source="p1" target="9838667"></edge>
+      <edge id="63" source="p7" target="9838667"></edge>
+      <edge id="64" source="5514098" target="9838667"></edge>
+      <edge id="65" source="p1" target="9375920"></edge>
+      <edge id="66" source="8256225" target="9375920"></edge>
+      <edge id="67" source="p1" target="9375055"></edge>
+      <edge id="68" source="p1" target="9375809"></edge>
+      <edge id="69" source="p1" target="8840965"></edge>
+      <edge id="70" source="9838667" target="8840965"></edge>
+      <edge id="71" source="p1" target="8410560"></edge>
+      <edge id="72" source="p12" target="8410560"></edge>
+      <edge id="73" source="9838667" target="8410560"></edge>
+      <edge id="74" source="p1" target="8256225"></edge>
+      <edge id="75" source="p12" target="8256225"></edge>
+      <edge id="76" source="9838667" target="8256225"></edge>
+      <edge id="77" source="p7" target="10952414"></edge>
+      <edge id="78" source="p13" target="10952414"></edge>
+      <edge id="79" source="p14" target="10952414"></edge>
+      <edge id="80" source="p15" target="10952414"></edge>
+      <edge id="81" source="p16" target="10952414"></edge>
+      <edge id="82" source="p7" target="10373330"></edge>
+      <edge id="83" source="p9" target="10373330"></edge>
+      <edge id="84" source="p11" target="10373330"></edge>
+      <edge id="85" source="p8" target="10373330"></edge>
+      <edge id="86" source="5514098" target="10373330"></edge>
+      <edge id="87" source="p7" target="9838690"></edge>
+      <edge id="88" source="p9" target="9838690"></edge>
+      <edge id="89" source="p11" target="9838690"></edge>
+      <edge id="90" source="p8" target="9838690"></edge>
+      <edge id="91" source="5514098" target="9838690"></edge>
+    </edges>
+  </graph>
+</gexf>
