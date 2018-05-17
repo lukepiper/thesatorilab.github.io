@@ -7,20 +7,8 @@ So it seemed like a good idea to capture in one place how we do things, why we d
 
 This document is utterly stolen from [DXW's brilliant playbook](http://playbook.dxw.com/#/) (literally we forked their playbook on GitHub).
 
-## Working at dxw
+## Working at the Satori Lab
 
-### Why are we all here?
-The web has revolutionised the way society works. Most of society has reaped the benefits of digital technology, but most public services lag behind. As a result, they are often expensive to build and run, and hard for people to use.
-
-Since dxw was founded in 2008, a lot of things have become better. The Government Digital Service has changed the conversation about how and why services get built, and many are much better as a result. But the challenge facing the public sector is not one that any organisation could tackle alone.
-
-In addition to talented in-house teams who understand how to deliver great services, the public sector needs talented suppliers who understand how to work with it. And who are driven by a desire to make public services better. And who understand how to combine a modern technological approach with agile principles of development and user-centricity. That's what dxw is here to do.
-
-We build digital public services that are flexible, efficient, effective and useful. We want people's experience of those services to be straightforward, positive and seamless. We believe that in building those services using agile principles, we can help government to embed those same principles in other parts of their organisations.
-
-Ultimately, we want to help the public sector to spend less on technology so that it can spend more on education, healthcare, policing and welfare. We believe that it is possible to use technology and agile principles to help government become something recognisably, radically better: and we want to help make it happen.
-
-dxw helps public sector teams to make good technology decisions and build better services.
 
 ### Values
 We think that it's very important to have a talented team if we're going to succeed. But just as important as raw talent is our ability to work well together. These are the values that we aspire to, and help each other to achieve.
@@ -1085,6 +1073,6 @@ The process for writing a new post is:
 
 ### Facebook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODkyNzI0OCwtMTM0MTY4MzA0NSwxNz
+eyJoaXN0b3J5IjpbLTI2OTA1NTEyNSwtMTM0MTY4MzA0NSwxNz
 QxMDY4MDNdfQ==
 -->
