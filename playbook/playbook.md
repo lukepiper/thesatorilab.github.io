@@ -5,7 +5,7 @@ And we work with a lovely bunch of associates, some of them a lot, some of them 
 
 So it seemed like a good idea to capture in one place how we do things, why we do them that way and what your role might be in doing those things
 
-This document is utterly stolen from DXW's brilliant playbook (literally we forked their pla
+This document is utterly stolen from [DXW's brilliant playbook](http://playbook.dxw.com/#/) (literally we forked their playbook on GitHub).
 
 ## Working at dxw
 
@@ -1085,5 +1085,5 @@ The process for writing a new post is:
 
 ### Facebook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjY3ODIyNywxNzQxMDY4MDNdfQ==
+eyJoaXN0b3J5IjpbLTEzNDE2ODMwNDUsMTc0MTA2ODAzXX0=
 -->
