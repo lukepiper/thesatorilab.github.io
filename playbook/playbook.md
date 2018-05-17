@@ -1,5 +1,11 @@
 ## Purpose
-W
+We're small but growing. 
+
+And we work with a lovely bunch of associates, some of them a lot, some of them occasionally.
+
+So it seemed like a good idea to cap
+
+
 
 Finally, this document is inspired by [Thoughtbot's excellent playbook](https://playbook.thoughtbot.com/). Thanks, Thoughtbot!
 
@@ -1082,5 +1088,5 @@ The process for writing a new post is:
 
 ### Facebook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzczNjAyNDMsMTc0MTA2ODAzXX0=
+eyJoaXN0b3J5IjpbLTE4MjY1OTQ4OTcsMTc0MTA2ODAzXX0=
 -->
