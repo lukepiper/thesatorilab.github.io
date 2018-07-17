@@ -4,7 +4,7 @@
     <creator>Gephi 0.9</creator>
     <description></description>
   </meta>
-  <graph defaultedgetype="directed" timeformat="datetime" timerepresentation="timestamp" mode="dynamic">
+  <graph defaultedgetype="undirected" timeformat="datetime" timerepresentation="timestamp" mode="dynamic">
     <attributes class="node" mode="static">
       <attribute id="twitter_type" title="twitter_type" type="string"></attribute>
       <attribute id="modularity class" title="Modularity Class" type="string"></attribute>
